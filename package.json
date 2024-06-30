@@ -1,7 +1,7 @@
 {
   "name": "mi_proyecto_api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "mi_api_rest.js",
     "scripts": {
     "start": "node mi_api_rest.js"
   },
